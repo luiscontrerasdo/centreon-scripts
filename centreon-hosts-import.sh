@@ -9,7 +9,7 @@
 # IMPORTANT: This script should be in your Centreon Server
 
 
-# Your CSV file should have the following fields in order, separated by comma
+# Your CSV file should have the following fields in order, separated by semicolon
 
 # -----------------------------------------------------------------------------
 # Order         Description                                                   |
